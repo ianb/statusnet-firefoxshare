@@ -1,0 +1,6 @@
+# Firefox Share Status.net Plugin
+
+This is a simple plugin for Firefox Share (F1) support.
+
+To install put this in your `plugins/` directory, and add `addConfig('F1');`
+to `config.php`
